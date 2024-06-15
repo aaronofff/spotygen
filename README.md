@@ -45,7 +45,7 @@
 <body>
     <div class="container">
         <h1>Spotify</h1> 
-        <button onclick="generateAccount()">Générer un compte</button> </p> 
+        <button onclick="generateAccount()">Générer un compte</button>
         <div id="accounts"></div>
 
 
@@ -78,7 +78,7 @@
     <button onclick="generateaccount()">Générer un compte</button>
     <div id="accounts"></div>
 </div>
-<p>! Le Gen de compte Disney Plus est en cours de developpement ! </p>
+<p>! Le Gen de compte Disney Plus est en cours de developpement !
 
 
 
