@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -78,10 +77,5 @@
     <div id="accounts"></div>
 </div>
 <p>! Le Gen de compte Disney Plus est en cours de developpement !
-
-
-
-
-</html>
 
 v.1.0
