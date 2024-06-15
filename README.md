@@ -71,7 +71,6 @@
         }
     </script>
 </body>
-</p>
 
 <div class="container">
     <h1>Disney Plus</h1>    
@@ -84,3 +83,5 @@
 
 
 </html>
+
+v.1.0
