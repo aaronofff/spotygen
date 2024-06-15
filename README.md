@@ -44,9 +44,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Spotify</h1>
-        <p></p>
-        <img src="c:\Users\aaron\Downloads\spotify.jfif"> </p>  
+        <h1>Spotify</h1> 
         <button onclick="generateAccount()">Générer un compte</button> </p> 
         <div id="accounts"></div>
 
@@ -77,8 +75,6 @@
 
 <div class="container">
     <h1>Disney Plus</h1>    
-    <p></p>
-    <img src="c:\Users\aaron\Downloads\disney-logo-9649A88458-seeklogo.com.png"> </p>
     <button onclick="generateaccount()">Générer un compte</button>
     <div id="accounts"></div>
 </div>
